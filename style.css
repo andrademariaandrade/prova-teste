@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900');
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: linear-gradient(#E9F2F5, #CEE0E7);
+  font-family: 'Roboto';
+}
+.header {
+    padding: 5px 0 0 0;
+    font-family: 'Roboto' !important;
+}
+.extra.content {
+    font-weight: bold;
+}
